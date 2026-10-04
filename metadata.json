@@ -1,0 +1,6 @@
+{
+  "name": "HyperDash Runner",
+  "description": "超ド派手な無限ランゲームのプロトタイプ＆制作プロジェクト",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
